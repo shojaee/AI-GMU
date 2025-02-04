@@ -1,13 +1,11 @@
-# AI-GMU
-AI for Medical Interns – Exploring Artificial Intelligence in Family Medicine - Gonabad University of Medical Sciences
-# AI for Medical Interns – Exploring Artificial Intelligence in Family Medicine  
+#  Artificial Intelligence for Medical Interns – Gonabad University of Medical Sciences
 
 این مخزن یک ماژول آموزشی برای دانشجویان پزشکی در دوره کارورزی است که با هدف معرفی کاربردهای هوش مصنوعی در مراقبت‌های بهداشتی، به‌ویژه در پزشکی خانواده، طراحی شده است.  
 
 ## **اهداف ماژول:**  
 - آشنایی با مفاهیم پایه‌ای هوش مصنوعی و کاربردهای آن در پزشکی  
 - بررسی نقش AI در بهبود مراقبت از بیمار و تصمیم‌گیری بالینی  
-- آشنایی با چالش‌های اخلاقی، قانونی و حریم خصوصی در استفاده از AI  
+- آشنایی با هوش مصنوعی مولد و کاربردهای آن در پزشکی  
 - ایجاد و استقرار یک مدل هوش مصنوعی اولیه برای پیش‌آگهی دیابت  
 
 ## **سرفصل‌های ماژول:**  
@@ -24,7 +22,7 @@ AI for Medical Interns – Exploring Artificial Intelligence in Family Medicine 
 
 ### **3. ایجاد و استقرار یک مدل هوش مصنوعی** (2 ساعت)  
 - توسعه مدل پیش‌آگهی دیابت بر اساس متغیرهایی مانند سن، جنس، فشار خون و شاخص توده بدنی  
-- استقرار مدل در محیط واقعی  
+- استقرار مدل و ارزیابی آن  
 
 ## **شیوه ارزشیابی:**  
 ✅ **گزارش فرصت‌ها و چالش‌های استفاده از AI در دوره کارورزی سلامت خانواده** (50٪)  
