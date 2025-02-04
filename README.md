@@ -31,4 +31,4 @@
 ## **نحوه استفاده از این ماژول:**  
 1. **کلون کردن مخزن:**  
    ```bash
-   git clone https://github.com/your-username/ai-for-medical-interns.git
+   git clone https://github.com/shojaee/ai-gmu.git
